@@ -60,3 +60,7 @@ H1 - There is  significant correlation between oil price and increase sales
 11. What is the trend of sales overtime ?
 
 12. What is the relationship between oil prices and promotion ?
+
+
+## Author
+Stephen Arhin-Aidoo
